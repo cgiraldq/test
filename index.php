@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<<<<<<< HEAD
-<title>La Guia colombia viaja por colombia</title>
-=======
-<title>La Guia Viajera en la rama realwork</title>
->>>>>>> realwork
+
+<title>La Guia colombia viaja por colombia2fdbdsbdfsbdfs</title>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Your description">
