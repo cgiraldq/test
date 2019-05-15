@@ -2,11 +2,9 @@
 <html lang="en">
 <head>
 
-<<<<<<< HEAD
-<title>La Guia colombia viaja por colombia2fdbdsbd</title>
-=======
-<title>La Guia colombia viaja</title>
->>>>>>> myfeautre
+
+<title>La Guia viajera</title>
+
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
