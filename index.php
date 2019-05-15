@@ -3,7 +3,7 @@
 <head>
 
 
-<title>La Guia colombia viaja por colombia stash2</title>
+<title>La Guia viajera</title>
 
 
 <meta charset="utf-8">
